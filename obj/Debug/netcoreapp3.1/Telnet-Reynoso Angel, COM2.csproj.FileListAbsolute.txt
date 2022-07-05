@@ -1,0 +1,13 @@
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\bin\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.exe
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\bin\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.deps.json
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\bin\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.runtimeconfig.json
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\bin\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.runtimeconfig.dev.json
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\bin\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.dll
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\bin\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.pdb
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\obj\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.csproj.AssemblyReference.cache
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\obj\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.AssemblyInfoInputs.cache
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\obj\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.AssemblyInfo.cs
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\obj\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.csproj.CoreCompileInputs.cache
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\obj\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.dll
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\obj\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.pdb
+C:\Users\Angel\OneDrive\Documentos\C#\Ejercicios\Telnet-Reynoso Angel, COM2\obj\Debug\netcoreapp3.1\Telnet-Reynoso Angel, COM2.genruntimeconfig.cache
